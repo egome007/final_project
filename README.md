@@ -2,28 +2,26 @@
 
 							by
 							
-					   Ivy Chen, Jeff Stevens, Ed Gomez
+			     Maria Soria, Carlos Quiros, Nehemias Vicente, Ed Goemz
 
 # PROJECT DESCRIPTION:
 
-Research of crime statistics for the City of Los Angeles and analyze the correlation of residential burglaries which occur at a specific days and months of year and how they compare to other days and months of the year. 
 
 # HYPOTHESIS TO EVALUATE:
 
-+ **Hypothesis: the number of instances of burglary increase during the summer months**
-+ **Hypothesis: most burglaries occur during daytime hours**
-+ **Hypothesis: most burglaries occur during weekdays**
-
++ **Hypothesis: 
++ **Hypothesis: 
++ **Hypothesis: 
 
 # Technology Overview
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
 |  Github      		| HTML, CSS, AWS 							|
-|  API's       		| data.lacity.org 							|
+|  API's       		|  							|
 |  Python Libraries   	| Python, Pandas, Matplotlib, Seaborn, scipy.stats, numpy    		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
-|  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) 	|
+|  Website		| 	|
 
 
 # Development Requirements		
