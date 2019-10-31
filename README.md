@@ -2,7 +2,7 @@
 
 							by
 							
-			     Maria Soria, Carlos Quiros, Nehemias Vicente, Ed Goemz
+			     Maria Soria, Carlos Quiros, Nehemias Vicente, Ed Gomez
 
 # PROJECT DESCRIPTION:
 
