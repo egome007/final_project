@@ -5,6 +5,11 @@
 			     Maria Soria, Carlos Quiros, Nehemias Vicente, Ed Gomez
 
 # PROJECT DESCRIPTION:
+Building a machine learning model to identify residential building architectural styles for the following types: 
+Modern
+Spanish
+Tudor
+Victorian
 
 
 # HYPOTHESIS TO EVALUATE:
@@ -19,7 +24,7 @@
 | :---         		|     :---:      							|
 |  Github      		| HTML, CSS, AWS 							|
 |  API's       		|  							|
-|  Python Libraries   	| Python, Pandas, Matplotlib, Seaborn, scipy.stats, numpy    		|
+|  Python         	| Imageye - Image downloader chrome extension was used to download images,|    		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| 	|
 
