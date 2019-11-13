@@ -23,7 +23,7 @@ Victorian
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
 |  Github      		| HTML, CSS, AWS 							|
-|  API's       		|  							|
+|  Tensorflow.JS       	|TensorFlow open source platform was used to build the machine learning model  						|
 |  Python         	| Imageye - Image downloader chrome extension was used to download images,|    		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| 	|
