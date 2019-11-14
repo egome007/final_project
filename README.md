@@ -3,7 +3,7 @@
 
 							by
 							
-			     Maria Soria, Carlos Quiroz, Nehemias Vicente, Ed Gomez
+			      Maria Soria, Carlos Quiroz, Nehemias Vicente, Ed Gomez
 
 # PROJECT DESCRIPTION:
 Create a front-end interface that maps to an API to "Smarten" the algorithm.
