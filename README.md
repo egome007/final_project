@@ -7,10 +7,7 @@
 
 # PROJECT DESCRIPTION:
 Building a machine learning model to identify residential building architectural styles for the following types: 
-Modern
-Spanish
-Tudor
-Victorian
+Modern; Spanish; Tudor; Victorian
 
 
 # HYPOTHESIS TO EVALUATE:
@@ -23,11 +20,13 @@ Victorian
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
-|  Github      		| HTML, CSS, AWS 							|
+|  Github      		| HTML, CSS, Javascript							|
 |  Tensorflow.JS       	|TensorFlow open source platform was used to build the machine learning model  						|
 |  Python         	| Imageye - Image downloader chrome extension was used to download images,|    		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| 	|
+|  AWS			| Amazon Simple Storage Service (S3) was the interface between the database and website
+Amazon Web Services (AWS) platform was used to deplo|
 
 
 # Development Requirements		
