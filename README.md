@@ -13,8 +13,8 @@ Create an analysis of existing home data to identify a prediction residential cl
 
 # Objectives:
 
-+ ** 
-+ ** 
++ Machine learning  to discover patterns in your data and then make predictions based on often complex patterns to answer business questions, detect and analyse trends and help solve problems.
++ 
 
 # Technology Overview
 
