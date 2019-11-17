@@ -35,7 +35,7 @@ Create an analysis of existing home data to identify a prediction residential cl
 # Development Requirements		
 		
 +	Find a problem worth solving, analyzing, or visualizing. 
-+	Use ML in the context of techonologies learned.
++	Use machine learning (ML) in the context of techonologies learned.
 +	You must use: Scikit-Learn and/or another machone learning library. 
 +	Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
 +	Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
