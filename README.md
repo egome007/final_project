@@ -14,7 +14,7 @@ Create an analysis of existing home data to identify a prediction residential cl
 # Objectives:
 
 + Machine learning models used to discover patterns in our housing imaging data in order to make predictions based on complex patterns of recognition to detect and analyse images.
-+ 
+
 
 # Technology Overview
 
