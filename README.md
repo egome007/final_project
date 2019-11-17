@@ -38,7 +38,7 @@ Create an analysis of existing home data to identify a prediction residential cl
 +	Use machine learning (ML) in the context of techonologies learned.
 +	You must use: Scikit-Learn and/or another machone learning library. 
 +	Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
-+	Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
++	Save JPG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
 +	(Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
 +	Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
 		
@@ -48,7 +48,7 @@ Create an analysis of existing home data to identify a prediction residential cl
 +	Questions we found interesting and what motivated our answer 
 +	Where and how we found the data and how we used this information to answer these questions
 +	The data exploration and cleanup process (accompanied by our Jupyter Notebooks)
-+	The analysis process (accompanied by your Jupyter Notebook)
++	The analysis process (accompanied by your COLAB)
 +	Our conclusions, which should include a numerical summary and visualizations of that summary
 +	The implications of our findings: what do our findings mean?
 
