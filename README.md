@@ -22,10 +22,10 @@ Create an analysis of existing home data to identify a prediction residential cl
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
 |  Github      		| HTML, CSS, Javascript, Bootstrap							|
-|  Tensorflow.JS       	|TensorFlow open source platform was used to build the machine learning model  						|
-|  Python         	| Phython script was used to resize thousands of images,| 
+|  Tensorflow.JS       	|TensorFlow open source platform was used to build the machine learning model  				|
 |  dupeGuru         	| dupeGuru, a cross-platform GUI tool, was used to find duplicate images,| 
 |  Chrome Extension     | Imageye - Image downloader chrome extension was used to download images,| 
+|  Python         	| Phython script was used to resize thousands of images,| 
 |  Python 		| Python Matplotlib was used to plot loss and accuracy for ML models,
 |  Website		| http://exmachinas.ml	|
 |  AWS			| Amazon Simple Storage Service (S3) was the interface between the database and website
