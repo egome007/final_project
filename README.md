@@ -3,7 +3,7 @@
 
 							by
 							
-			      Maria Soria, Carlos Quiroz, Ivy Chen, Nehemias Vicente, Ed Gomez
+			    Maria Soria, Carlos Quiroz, Ivy Chen, Nehemias Vicente, Ed Gomez
 
 # PROJECT DESCRIPTION:
 Create a front-end interface that maps to an API to "Smarten" the algorithm.
@@ -11,11 +11,10 @@ Perform a deep dive of existing data using mahine learning.
 Create an analysis of existing home data to identify a prediction residential classification building architectural styles for the following types: Modern; Spanish; Tudor; Victorian
 
 
-# HYPOTHESIS TO EVALUATE:
+# Objectives:
 
-+ **Hypothesis: 
-+ **Hypothesis: 
-+ **Hypothesis: 
++ ** 
++ ** 
 
 # Technology Overview
 
