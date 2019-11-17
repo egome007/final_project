@@ -8,13 +8,13 @@
 # PROJECT DESCRIPTION:
 Create a front-end interface that maps to an API to "Smarten" the algorithm.
 Perform a deep dive of existing data using mahine learning.
-Create an analysis of existing home data to identify a prediction residential classification building architectural styles for the following types: Modern; Spanish; Tudor; Victorian
+Create an analysis of existing home data to identify a prediction residential classification building architectural styles for the following types: Modern; Spanish; Tudor; Victorian.
 
 
 # Objectives:
 
 + Evaluate machine learning models that anlyze complex images to detect patterns in our housing image dataset in order to make accurate classification predictions.
-+ The team developed and deployed a machine learning model that could load an image and categorize the architecture style of a house.
++ The team developed and deployed a machine learning model that could load an image and classify the architecture style of a house.
 
 
 # Technology Overview
