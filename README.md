@@ -6,9 +6,7 @@
 	          Ivy Chen, Ed Gomez, Carlos Quiroz, Maria Soria, Nehemias Vicente (in alphabetical order) 
 
 # PROJECT DESCRIPTION:
-Create a front-end interface that maps to an API to "Smarten" the algorithm.
-Perform a deep dive of existing data using mahine learning.
-Create an analysis of existing home data to identify a prediction residential classification building architectural styles for the following types: Modern; Spanish; Tudor; Victorian.
+The primary objective was to use machine learning (ML) in the context of technologies learned and apply it to solving a problem. The team decided on a classification approach to predict the architectural style of a house image. The model was developed using the following architectural style: Modern; Spanish; Tudor; Victorian.
 
 
 # Objectives:
