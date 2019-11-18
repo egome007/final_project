@@ -14,7 +14,7 @@ Create an analysis of existing home data to identify a prediction residential cl
 # Objectives:
 
 + Evaluate machine learning models that analyze complex images to detect patterns in our housing image dataset in order to make accurate classification predictions.
-+ Develop and deploy a machine learning model that could load an image and classify the architecture style of a house.
++ Develop and deploy a machine learning model that could read an image and classify the architecture style of a house.
 
 
 # Technology Overview
